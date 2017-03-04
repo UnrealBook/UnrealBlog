@@ -12,9 +12,9 @@ baseurl: ""
 # SNS settings
 RSS: false
 weibo_username:     NaiveBook
-zhihu_username:     AsherBook
+zhihu_username:     asherbook
 github_username:    UnrealBook
-facebook_username:  UnrealBook
+facebook_username:  Unreal Book
 
 
 # Build settings
