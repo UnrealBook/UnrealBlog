@@ -11,7 +11,7 @@ baseurl: ""
 
 # SNS settings
 RSS: false
-weibo_username:     NaiveBook
+weibo_username:     CooolBook
 zhihu_username:     asherbook
 github_username:    UnrealBook
 facebook_username:  Unreal Book
