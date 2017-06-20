@@ -46,6 +46,9 @@ kramdown:
 # Disqus settings
 disqus_username: unrealbook
 
+# Netease setttings
+netease_comment: true
+
 # Duoshuo settings
 #duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
